@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Cox's Bazar",
+    "description": "Cox's Bazar is a popular beach town located in southeastern Bangladesh. It is known for having the world's longest uninterrupted sandy beach, stretching over 120 kilometers. The scenic beauty, soothing waves, and vibrant local culture attract a large number of tourists every year.",
+    "image": "cox's-bazar.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sundarbans National Park",
+    "description": "Sundarbans National Park is a UNESCO World Heritage site and the largest mangrove forest in the world. It is situated in the southwestern part of Bangladesh, covering a vast area. The park is famous for its diverse flora and fauna, including the majestic Royal Bengal Tigers.",
+    "image": "sundarban.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sylhet",
+    "description": "Sylhet is a picturesque city nestled in the Surma Valley of northeastern Bangladesh. It is known for its lush tea gardens, scenic hills, and beautiful waterfalls. The city is also home to numerous religious sites, including the revered Shahjalal Shrine, attracting both nature lovers and spiritual seekers.",
+    "image": "sylhet.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Rangamati",
+    "description": "Rangamati is a hill district located in southeastern Bangladesh. It is renowned for its captivating landscapes, including hills, lakes, and the Kaptai Lake, which is the largest man-made lake in Bangladesh. Rangamati offers opportunities for boating, hiking, and exploring indigenous tribal cultures.",
+    "image": "Rangamati.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Saint Martin's Island",
+    "description": "Saint Martin's Island is a small coral island situated in the Bay of Bengal, around 9 kilometers south of Cox's Bazar. It is the only coral island in Bangladesh, known for its pristine beaches, clear turquoise waters, and diverse marine life. The island is a popular destination for snorkeling, scuba diving, and enjoying the tranquility of nature.",
+    "image": "Saint-Martin's-Island.jpg"
+  }
+]
