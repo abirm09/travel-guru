@@ -33,6 +33,14 @@ app.get("/division/all", (req, res) => {
   res.send(onlyDivisions);
 });
 
+//send time
+app.get("/times/date", (req, res) => {
+  const time = new Date();
+  console.log(time.getFullYear());
+  const dateTime = [time.getFullYear(), time.getMonth(), time.getDay()];
+  res.send(dateTime);
+});
+
 app.listen(port, () => {
   console.log(`server started at port ${port}`);
 });
